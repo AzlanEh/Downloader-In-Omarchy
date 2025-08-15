@@ -1,12 +1,4 @@
-```bash
- ██████╗ ███╗   ███╗ █████╗ ██████╗  ██████╗██╗  ██╗██╗   ██╗
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██║  ██║╚██╗ ██╔╝
-██║   ██║██╔████╔██║███████║██████╔╝██║     ███████║ ╚████╔╝ 
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗██║     ██╔══██║  ╚██╔╝  
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗██║  ██║   ██║   
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   
-      Omarchy Downloader — Files & YouTube from your menu
-```
+
 
 A blazing-fast download manager for Arch Linux users, integrated into the Omarchy ecosystem. Easily download **big/small files** using `aria2c` or fetch **YouTube videos** via the terminal — all in one unified menu.
 
